@@ -1,0 +1,13 @@
+{
+  "name": "spermship",
+  "version": "0.0.1",
+  "description": "ships the sperm",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node create-account.js --keys=10"
+  },
+  "dependencies": {
+    "puppeteer": "^19.8.0"
+  }
+}
